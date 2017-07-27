@@ -1,0 +1,15 @@
+{
+  "name": "dom-events-demo",
+  "version": "1.0.0",
+  "description": "a quick demo of bubbling events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jason Seminara <js@ga.co>",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.3.0"
+  }
+}
