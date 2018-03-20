@@ -4,7 +4,7 @@
   "description": "a quick demo of bubbling events",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "open index.html"
   },
   "keywords": [],
   "author": "Jason Seminara <js@ga.co>",
